@@ -4,8 +4,8 @@ import {
   reset,
   incrementByAmount,
   incrementAsync,
-} from '@/state/counter/counterSlice';
-import { AppDispatch, RootState } from '@/state/store';
+} from '@/redux/counter/counterSlice';
+import { AppDispatch, RootState } from '@/redux/store';
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 
