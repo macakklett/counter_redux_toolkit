@@ -24,11 +24,11 @@ const Counter: React.FC = () => {
       <button className="counter__button" onClick={() => dispatch(increment())}>
         +
       </button>
-      <button className="counter__button" onClick={() => dispatch(incrementByAmount(10))}>
+      <button className="counter__button_value" onClick={() => dispatch(incrementByAmount(10))}>
         Add 10
       </button>
-      <button className="counter__button" onClick={() => dispatch(incrementAsync(10))}>
-        Add 10
+      <button className="counter__button_value" onClick={() => dispatch(incrementAsync(10))}>
+        Add 10 with delay
       </button>
     </div>
   );

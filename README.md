@@ -1,6 +1,6 @@
 ### Project: Counter
 
-### [Site Link](https://employee-directory-react-app.netlify.app/)
+### [Site Link](https://counter-react-redux-toolkit2024.netlify.app/)
 
 Countery app is implemented for educational purposes on Netlify
 
