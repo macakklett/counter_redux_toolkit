@@ -2,7 +2,7 @@
 
 ### [Site Link](https://counter-react-redux-toolkit2024.netlify.app/)
 
-Countery app is implemented for educational purposes on Netlify
+Counter app is implemented for educational purposes on Netlify
 
 ### The tech stack is:
 
